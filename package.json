@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "my first nodejs",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "app_Cel_Faren_tG_Post.js"
+  "scripts": {    
+    "start": "app.js"
   },
   "author": "",
   "license": "ISC",
