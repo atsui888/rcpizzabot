@@ -87,7 +87,7 @@ app.post('/json', function(request, response) {
 
 
 // ccreate the server based on a port
-var listener = app.listen(60000, process.env.IP, function() {
+var listener = app.listen(process.env.PORT, process.env.IP, function() {
     console.log('server has started');
 })
 
